@@ -1,0 +1,19 @@
+{
+    "name": "tsim-project/sell-esim-plugin",
+    "description": "[Wordpress] Sell eSIM Plugin allows you to sell eSIMs in your WooCommerce based store.",
+    "type": "project",
+    "license": "GPL",
+    "autoload": {
+        "psr-4": {
+            "TsimAboy\\SellEsim\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aboy",
+            "email": "aboy@tsimtech.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
